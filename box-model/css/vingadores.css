@@ -1,0 +1,66 @@
+.hero-container {
+    display: flex;
+    gap: 20px;
+}
+
+.hero-box {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #eee4ee;
+    text-align: center;
+    border-radius: 10%;
+    border-bottom: 15px;
+    border-color: #0a74da;
+    border-style: ridge;
+    box-shadow: 10px 10px 20px black;
+}
+
+.hero-box:hover {
+    background-color: #d3d3d3;
+    transition: 0.5s;
+    
+}
+.hero-box img {
+    width: 250px;
+    height: 200px;
+    border-radius: 10%;
+
+}
+
+#tittle {
+    text-align: center;
+    color: #0a74da;
+}
+
+.box-background {
+    background-color: #1b1f23;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: black 1px 1px 5px;
+}
+
+#capitao-america {  
+    color: #0a74da;
+    border-radius: 10%;
+    border-bottom: 15px;
+    border-color: #0a74da;
+    border-style: ridge;
+    
+}
+
+#thor {
+    color: #f9a825;
+    border-radius: 10%;
+    border-bottom: 15px;
+    border-color: #f9a825;
+    border-style: ridge;
+}
+
+#homen-de-ferro {
+    color: #c62828;
+    border-radius: 10%;
+    border-bottom: 15px;
+    border-color: #c62828;
+    border-style: ridge;
+}
